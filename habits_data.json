@@ -1,0 +1,54 @@
+{
+  "habits": [
+    {
+      "id": "2b49067d",
+      "name": "Read 30 min",
+      "category": "Health",
+      "frequency": "Daily",
+      "target_days": 1,
+      "description": "",
+      "tags": [],
+      "priority": "High",
+      "start_date": "2026-04-01",
+      "end_date": null,
+      "goal_note": "",
+      "reminder_time": null,
+      "created_at": "2026-04-01T00:25:56.385728"
+    },
+    {
+      "id": "ef22e931",
+      "name": "morning walk",
+      "category": "Health",
+      "frequency": "Daily",
+      "target_days": 1,
+      "description": "morning walk",
+      "tags": [],
+      "priority": "High",
+      "start_date": "2026-05-12",
+      "end_date": null,
+      "goal_note": "",
+      "reminder_time": null,
+      "created_at": "2026-05-12T15:28:12.027720"
+    }
+  ],
+  "completions": {
+    "2b49067d": {
+      "2026-04-01": true,
+      "2026-05-12": true,
+      "2026-09-25": false
+    },
+    "ef22e931": {
+      "2026-05-12": true
+    }
+  },
+  "notes": {
+    "2026-04-01": {
+      "mood": "🙂 Good",
+      "energy": "🔋 High",
+      "text": "great",
+      "timestamp": "2026-04-01T16:18:33.072158"
+    }
+  },
+  "archived": [],
+  "habit_notes": []
+}
